@@ -1,5 +1,5 @@
 Hello everybody
-this script is for professonal iformation gathering
+this script is for professonal information gathering
 first add your target ip,then add the website name,and finally add domain name for your target websit
 this script contains
 1-Curl
