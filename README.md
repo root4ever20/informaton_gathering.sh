@@ -12,3 +12,6 @@
 #8-nmap
 #all this tools in one script , you used it without many terminals, all done in one terminal
 #Good luck
+
+usage:
+./informaton_gathering.sh
