@@ -45,7 +45,7 @@ sleep 10
 echo''
 echo "####################     nmap        ########################"
 echo''
-nmap -F -O -sV -D RND:90 $Website
+nmap -F -O -sV  $Website
 sleep 10
 echo''
 echo "##############################################################"
