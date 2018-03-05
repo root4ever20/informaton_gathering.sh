@@ -97,8 +97,7 @@ sslscan $IP
 sleep 2
 echo ''
 echo -e "$Red##############################################################"
-echo ''
-fi
+echo ""
 
 if [ $? -eq 0 -a 1 ]
 then
